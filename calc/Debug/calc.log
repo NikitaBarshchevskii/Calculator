@@ -1,0 +1,5 @@
+﻿  calc.cpp
+D:\calc\calc\calc.cpp(10,21): warning C4018: '<=': signed/unsigned mismatch
+D:\calc\calc\calc.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+D:\calc\calc\calc.cpp(166,25): warning C4018: '>=': signed/unsigned mismatch
+  calc.vcxproj -> D:\calc\Debug\main.exe
