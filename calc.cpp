@@ -152,7 +152,7 @@ bool getPostfixFromInfix(std::string infix, std::vector <std::string> postfix, s
       }
       break;
 
-    default: // Вся магия тут (магия 333 + 444 = 777)
+    default: // All magic appears here!
       if (infix.at(i) == ' ')
       {
         break;
